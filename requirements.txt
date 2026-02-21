@@ -1,0 +1,10 @@
+boto3
+langchain-aws
+langgraph
+python-dotenv
+rich
+fastapi
+uvicorn
+ngrok
+python-multipart
+sse-starlette
