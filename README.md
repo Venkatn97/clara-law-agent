@@ -276,4 +276,7 @@ docker push <account-id>.dkr.ecr.us-east-1.amazonaws.com/clara-law-agent:latest
 
 Built as a Forward Deployed Engineer portfolio project demonstrating end-to-end AI agent deployment on AWS.
 
+## Demo
+https://youtu.be/ZRQZwAqKUx8
+
 **Skills demonstrated:** AWS Bedrock, LangGraph, RAG, Voice AI, Docker, ECS Fargate, CloudWatch, FastAPI, Bedrock Guardrails, Evals
